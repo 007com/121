@@ -1,2 +1,4 @@
 Git 12121.
 Github 21212.
+Git is easy.
+Git is hard.
